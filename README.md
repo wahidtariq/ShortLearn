@@ -1,3 +1,10 @@
+
+<img width="295" height="640" alt="Simulator Screen Recording - iPhone 17 Pro - 2026-05-15 at 11 07 01" src="https://github.com/user-attachments/assets/1c0c8202-3c7b-4499-8e54-b6d48b29e135" />
+
+
+<img width="480" height="640" alt="Simulator Screen Recording - iPad Pro 13-inch (M5) - 2026-05-15 at 11 09 00" src="https://github.com/user-attachments/assets/7c3ff740-21ab-4241-bb88-3cc2ade83b14" />
+
+
 # ShortLearn
 
 A free, ad-free iOS app that replaces endless YouTube Shorts / TikTok scroll with bite-sized learning cards. Swipe vertically through interesting facts from Wikipedia — each card is curated for "hook in the first line."
